@@ -11,7 +11,9 @@ const ReactSnap = () => {
      <>
      <Helmet>
         <title>Pre-render routes with react-snap</title>
+        <meta name="og:image" content="Pre-render routes with react-snap"/>
         <meta name="description" content="Learn How to use React-snap and How To Make Our Site SEO friendly Using React-Snap" />
+        <meta name="og:image" content={img}/>
         <meta name="theme-color" content="#008f68" />
       </Helmet>
       <div className='ReactSnap'> 
