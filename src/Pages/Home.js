@@ -16,7 +16,7 @@ const Home = () => {
         <meta name="og:description" content="Learn How to use React-Helmet and How To Change the Title and Metadata with React Helmet" />
         {/* <meta name="image" content={img1}/> */}
         <meta property="og:type" content="website" />
-        <meta property="og:image:type" content="image/jpeg"></meta>
+        <meta property="og:image:type" content="image/png"></meta>
         <meta property="og:image" itemprop="image" content="https://stefaniq.com/wp-content/uploads/2021/01/meta-tags-reactjs.png"></meta>
         <meta property="og:image:width" content="300"/>
         <meta property="og:image:height" content="300"/>
