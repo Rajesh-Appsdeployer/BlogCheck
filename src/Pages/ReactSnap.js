@@ -13,7 +13,10 @@ const ReactSnap = () => {
         <title>Pre-render routes with react-snap</title>
         <meta name="og:title" content="Pre-render routes with react-snap"/>
         <meta name="og:description" content="Learn How to use React-snap and How To Make Our Site SEO friendly Using React-Snap" />
-        <meta name="image" content={img}/>
+        {/* <meta name="image" content={img}/> */}
+        <meta property="og:image" content="https://stefaniq.com/wp-content/uploads/2021/01/meta-tags-reactjs.png"></meta>
+        <meta property="og:image:height" content="1240"></meta>
+        <meta property="og:image:width" content="1747"></meta>
         <meta name="theme-color" content="#008f68" />
       </Helmet>
       <div className='ReactSnap'> 

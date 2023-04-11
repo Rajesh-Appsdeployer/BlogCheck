@@ -13,7 +13,10 @@ const Home = () => {
         <title>How to use React-Helmet in Reactjs With Example</title>
         <meta name="og:title" content="How to use React-Helmet in Reactjs With Example"/>
         <meta name="og:description" content="Learn How to use React-Helmet and How To Change the Title and Metadata with React Helmet" />
-        <meta name="image" content={img1}/>
+        {/* <meta name="image" content={img1}/> */}
+        <meta property="og:image" content="https://stefaniq.com/wp-content/uploads/2021/01/meta-tags-reactjs.png"></meta>
+        <meta property="og:image:height" content="1240"></meta>
+        <meta property="og:image:width" content="1747"></meta>
         <meta name="theme-color" content="#008f68" />
       </Helmet>
       <div className='Home'> 
