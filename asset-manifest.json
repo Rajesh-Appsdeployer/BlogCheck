@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Rajesh-Appsdeployer/BlogCheck/static/css/main.24241870.css",
-    "main.js": "/Rajesh-Appsdeployer/BlogCheck/static/js/main.f29b9ccb.js",
+    "main.js": "/Rajesh-Appsdeployer/BlogCheck/static/js/main.6fd0017d.js",
     "static/js/787.4c6e8868.chunk.js": "/Rajesh-Appsdeployer/BlogCheck/static/js/787.4c6e8868.chunk.js",
     "static/media/React-snap.webp": "/Rajesh-Appsdeployer/BlogCheck/static/media/React-snap.1a9e24f027d8ed999b0b.webp",
     "static/media/snap3.png": "/Rajesh-Appsdeployer/BlogCheck/static/media/snap3.0fcd8c3833228a2911e6.png",
@@ -14,11 +14,11 @@
     "static/media/call-icon-9597.svg": "/Rajesh-Appsdeployer/BlogCheck/static/media/call-icon-9597.dd1939d4574a19b79909a7534b70cc5f.svg",
     "index.html": "/Rajesh-Appsdeployer/BlogCheck/index.html",
     "main.24241870.css.map": "/Rajesh-Appsdeployer/BlogCheck/static/css/main.24241870.css.map",
-    "main.f29b9ccb.js.map": "/Rajesh-Appsdeployer/BlogCheck/static/js/main.f29b9ccb.js.map",
+    "main.6fd0017d.js.map": "/Rajesh-Appsdeployer/BlogCheck/static/js/main.6fd0017d.js.map",
     "787.4c6e8868.chunk.js.map": "/Rajesh-Appsdeployer/BlogCheck/static/js/787.4c6e8868.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.24241870.css",
-    "static/js/main.f29b9ccb.js"
+    "static/js/main.6fd0017d.js"
   ]
 }
