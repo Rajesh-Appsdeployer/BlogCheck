@@ -1,0 +1,72 @@
+.Footer{
+    display: flex;
+    flex-direction: row;
+    background: #0a2541;
+    justify-content: center;
+    padding: 50px 20px;
+    gap: 60px;
+    color: #f9f9f9;
+    flex-wrap: wrap;
+}
+.Footer h3{
+    font-weight: bolder;
+    font-size: 20px;
+    line-height: 20px;
+    color: #f6430f;
+    padding-bottom: 10px;
+}
+.Footer p{
+    color: #eee;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+     
+}
+
+.Footer p::after{
+    content: "";
+    display: block;
+    width: 0;
+    height: 2px;
+    background: #f6430f;
+    transition: width .5s;
+}
+.Footer p:hover{
+    color: #f6430f;
+}
+.Footer p:hover::after{
+    width: 100%;
+}
+.fa-facebook{
+    color: blue;
+    padding: 10px 16px;   
+}
+.fa-twitter{
+    color: rgb(67, 204, 246);
+    padding: 10px 10px;   
+}
+.fa-youtube{
+    color: red;
+    padding: 10px 10px;   
+}
+.fa-linkedin{
+    color: black;
+    padding: 10px 10px;   
+}
+.Footer .the_school .icons i{
+    margin-left: 10px;
+    cursor: pointer;
+    border-radius: 50%;
+    background-color: white;
+}
+.Footer .the_school .icons i:hover{
+    background-color: rgb(239, 235, 235); 
+}
+.Footer .copyright{
+    color: #d2d2d6;
+    font: 400 12px/16px Mulish,Roboto,Helvetica Neue,sans-serif;
+}
+.contactus{
+    padding-top: 15px;
+}

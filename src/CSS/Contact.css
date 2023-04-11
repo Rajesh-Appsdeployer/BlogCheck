@@ -1,0 +1,124 @@
+.Contect{
+    background: url(https://files.codingninjas.com/cdn-cgi/image/width=136/group-3429-9844.png) no-repeat bottom 0 left 0,linear-gradient(90.02deg,#343b89 -1.1%,#4d4899 99.97%);
+    position: relative;
+    z-index: 2;
+    padding: 50px;
+}
+.Contect .head{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    max-width: 1000px;
+    margin: auto;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+.Contect .head .form{
+    background-color: #f9f9f9;
+    padding-right: 44px!important;
+    padding-left: 44px!important;
+    padding-top: 24px!important;
+    padding-bottom: 24px!important;
+    border-radius: 8px;
+}
+  #outlined-basic{
+    box-sizing: border-box;
+    width: 300px;
+    height: 45px;
+    margin-top: 10px;
+    
+}
+.input_field{
+    padding-bottom: 1.34375em;
+   
+}
+.form .input_area .btn:hover{
+    background-image: linear-gradient(90deg,#ff9100 ,#f96b24);
+}
+.form .input_area .btn{
+     
+    min-width: 64px;
+    line-height: 22px;
+    border-radius: 6px;
+    padding: 0 75px;
+    min-height: 40px;
+    background-image: linear-gradient(90deg,#f96b24,#ff9100);
+    color: #f9f9f9;
+} 
+ .Contect .head .query .icon img{
+    box-shadow: -1px 10px 20px rgb(197 208 216 / 20%);
+     border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    padding: 10px 10px;
+    background-color: #f9f9fa;
+     
+ }
+ .Contect .head .query h4 {
+    font-size: 40px;
+    color: #f96b24;
+    padding-bottom: 35px;
+ }
+ .Contect .head .query p {
+    font-size: 20px;
+    color: #f96b24;
+    padding-bottom: 50px;
+ }
+ .Contect .head .query .icon h3{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    color: #f9f9f9;
+    margin-bottom: 10px;
+}
+.Contect .head .query .icon h1{
+font-size: 30px;
+     
+    color: #f9f9f9;
+    margin-top: 6px;
+}
+.Contect .head .query .icon{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+@media screen and (max-width:462px) {
+    #outlined-basic{
+        box-sizing: border-box;
+        width: 250px;
+        height: 45px;
+        margin-top: 10px;
+        
+    }
+}
+@media screen and (max-width:412px) {
+    #outlined-basic{
+        box-sizing: border-box;
+        width: 200px;
+        height: 45px;
+        margin-top: 10px;
+        
+    }
+    .form .input_area .btn{
+        padding: 0 25px;
+    }
+}
+@media screen and (max-width:295px) {
+    #outlined-basic{
+        box-sizing: border-box;
+        width: 200px;
+        height: 45px;
+        margin-top: 10px;
+        
+    }
+    .form .input_area .btn{
+        padding: 0 25px;
+    }
+    .Contect .head .form{
+         
+        padding-right: 35px!important;
+        padding-left: 35px!important;
+         
+    }
+}

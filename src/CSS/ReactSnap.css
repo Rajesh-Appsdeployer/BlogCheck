@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.ReactSnap{
+   margin-left: auto;
+   margin-right: auto;
+}
+.ReactSnapContain{
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+}
+.ReactSnapContain .contain{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+.ReactSnapContain .contain .imger{
+    height: 500px;
+}
+.ReactSnapContain .contain p{
+    font-size:22px ;
+}
+.ReactSnapContain .contain .orderlist{
+    font-size: 22px;
+}
+.ReactSnapContain .contain .npm{
+    background: black;
+    color: white;
+    text-align:center;
+    border-radius: 10px;
+}
+.butn{
+    border: none;
+    border-radius: 5px;
+    padding: 5px 15px;
+    cursor: pointer;
+}
+.butn:hover{
+    background-color: rgb(28, 28, 181);
+    color: white;
+}
