@@ -11,9 +11,10 @@ const Home = () => {
      <>
      <Helmet>
         <title>How to use React-Helmet in Reactjs With Example</title>
-        <meta name="og:image" content="How to use React-Helmet in Reactjs With Example"/>
-        <meta name="description" content="Learn How to use React-Helmet and How To Change the Title and Metadata with React Helmet" />
-        <meta name="og:image" content={img}/>
+        <meta name="og:title" content="How to use React-Helmet in Reactjs With Example"/>
+        <meta name="og:description" content="Learn How to use React-Helmet and How To Change the Title and Metadata with React Helmet" />
+        <meta property="og:type" content="Blog" />
+        <meta name="og:image" content="${require(`../Images/react-helmet.png`)}"/>
         <meta name="theme-color" content="#008f68" />
       </Helmet>
       <div className='Home'> 
