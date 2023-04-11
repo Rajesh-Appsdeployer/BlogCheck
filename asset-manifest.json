@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Rajesh-Appsdeployer/BlogCheck/static/css/main.24241870.css",
+    "main.js": "/Rajesh-Appsdeployer/BlogCheck/static/js/main.2e92e86c.js",
+    "static/js/787.4c6e8868.chunk.js": "/Rajesh-Appsdeployer/BlogCheck/static/js/787.4c6e8868.chunk.js",
+    "static/media/React-snap.webp": "/Rajesh-Appsdeployer/BlogCheck/static/media/React-snap.1a9e24f027d8ed999b0b.webp",
+    "static/media/snap3.png": "/Rajesh-Appsdeployer/BlogCheck/static/media/snap3.0fcd8c3833228a2911e6.png",
+    "static/media/react3.png": "/Rajesh-Appsdeployer/BlogCheck/static/media/react3.c1a47de92bbbd5a6078a.png",
+    "static/media/react2.png": "/Rajesh-Appsdeployer/BlogCheck/static/media/react2.f11cbccdb5c191d67566.png",
+    "static/media/snap4.avif": "/Rajesh-Appsdeployer/BlogCheck/static/media/snap4.d97857c67826a6596ff0.avif",
+    "static/media/React.png": "/Rajesh-Appsdeployer/BlogCheck/static/media/React.72f6e12e89060b4a0b75.png",
+    "static/media/react-helmet.png": "/Rajesh-Appsdeployer/BlogCheck/static/media/react-helmet.c373fc8820aacbd20689.png",
+    "static/media/coder.webp": "/Rajesh-Appsdeployer/BlogCheck/static/media/coder.7cd8afd5b560432b5cc0.webp",
+    "static/media/call-icon-9597.svg": "/Rajesh-Appsdeployer/BlogCheck/static/media/call-icon-9597.dd1939d4574a19b79909a7534b70cc5f.svg",
+    "index.html": "/Rajesh-Appsdeployer/BlogCheck/index.html",
+    "main.24241870.css.map": "/Rajesh-Appsdeployer/BlogCheck/static/css/main.24241870.css.map",
+    "main.2e92e86c.js.map": "/Rajesh-Appsdeployer/BlogCheck/static/js/main.2e92e86c.js.map",
+    "787.4c6e8868.chunk.js.map": "/Rajesh-Appsdeployer/BlogCheck/static/js/787.4c6e8868.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24241870.css",
+    "static/js/main.2e92e86c.js"
+  ]
+}
